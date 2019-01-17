@@ -3,5 +3,7 @@ Some exercises of machine learning when I start studying the machine learning
     (刚开始学习机器学习的一写代码)
 
 ## class
-#### matlab : the codes of matlab version
+#### machine_learning_matlab : the codes of matlab version
+
+#### machine_learning_python : the codes of python version
 
