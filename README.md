@@ -21,11 +21,13 @@ Taught by `Andrew Ng`
 * machine_learning_matlab:
 
     Coursera 机器学习原始代码，以及个人的解决方案
+    
 格式：`Matlab`
 
 * machine_learning_python: (暂未完成)
 
     Python重新书写原始代码，以及解决方案
+    
 格式：`Python`
 
 * 课件：
